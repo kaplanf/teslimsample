@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AclTeslimSample</string>
+    <string name="loading">Loading...</string>
+    <string name="acl_map">ACL MAP</string>
+    <string name="gps_network_not_enabled">GPS Aktif Değil</string>
+    <string name="open_location_settings">GPS Ayarlarını aç</string>
+    <string name="Cancel">İptal</string>
+</resources>
